@@ -24,13 +24,13 @@
   <distributionManagement>
     <repository>
         <id>nexus</id>
-        <name>Releases</name>
-        <url>http://52.66.82.175:8081/repository/minutus-release/</url>
+        <name>nexus-releases</name>
+        <url>http://devops.platform.minutuscloud.com/nexus/repository/minutus-release/</url>
     </repository>
     <snapshotRepository>
-        <id>nexus-snapshots</id>
-        <name>nexus</name>
-        <url>http://52.66.82.175:8081/repository/minutus-snapshots/</url>
+        <id>nexus</id>
+        <name>nexus-snapshots</name>
+        <url>http://devops.platform.minutuscloud.com/nexus/repository/minutus-snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
 
