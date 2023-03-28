@@ -1,0 +1,3 @@
+file_path: maven-project/webapp/target/webapp.war
+fetched_path: /tmp/
+dest: /opt/tomcat/webapps/
