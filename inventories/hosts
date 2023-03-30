@@ -1,8 +1,0 @@
-# sample hosts
-[jenkins]
-18.118.152.112 ansible_ssh_common_args='-o StrictHostKeyChecking=no'
-
-[tomcat]
-18.118.206.99 ansible_ssh_common_args='-o StrictHostKeyChecking=no'
-
-
